@@ -3,7 +3,7 @@ This code is the companion to the research article "High-affinity P2Y2 and low-a
 
 figures.m
 
-Generates Figures 4,6 and 7 from the research article.
+Generates Figures 4, 6 and 7 from the research article.
 
 fullmodel.m
 
