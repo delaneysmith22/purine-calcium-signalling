@@ -1,5 +1,5 @@
 # purine-calcium-signalling
-This code is the companion to the research article "High-affinity P2Y2 and low-affinity P2X7 receptor interaction modulates ATP-mediated calcium signalling in murine osteoblasts".
+This code is the companion to the research article "High-affinity P2Y2 and low-affinity P2X7 receptor interaction modulates ATP-mediated calcium signalling in murine osteoblasts" published in PLOS Computational Biology here: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008872
 
 figures.m
 
